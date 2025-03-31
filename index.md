@@ -78,3 +78,8 @@
 
 ## 🎥 링크
 - [키보드 연주 영상 모음](https://www.youtube.com/watch?v=R8p85z0Z8gs&list=PLmYlvqe0_HiqdW0vUHfyipQLF8wZd-NtI&ab_channel=14fret2)
+
+---
+
+## 추천인
+광운대학교 정보융합학부 박규동 교수
