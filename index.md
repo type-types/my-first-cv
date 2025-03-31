@@ -1,6 +1,6 @@
-# 박민석 이력서 (2025)
+# 박민석 미래 이력서
 
-[이메일: ddori0430@gmail.com](mailto:ddori0430@gmail.com)  
+이메일: [ddori0430@gmail.com](mailto:ddori0430@gmail.com)  
 [GitHub](https://github.com/type-types) | [YouTube](https://www.youtube.com/@type_types) | [Notion 프로젝트](https://www.notion.so/Team-Melissa-Melissa-16b4d4feddec8030bcccd02e0edfeadf?pvs=21)
 
 ---
@@ -53,6 +53,9 @@
 - TOEIC 845점  
 - TOEIC Speaking Level 6  
 - 컴퓨터활용능력 2급
+- SQLD
+- ADsP
+- AICE Associate
 
 ---
 
@@ -74,7 +77,4 @@
 ---
 
 ## 🎥 링크
-
-- [Instagram](https://www.instagram.com/type_types/)  
-- [YouTube](https://www.youtube.com/@type_types)  
 - [키보드 연주 영상 모음](https://www.youtube.com/watch?v=R8p85z0Z8gs&list=PLmYlvqe0_HiqdW0vUHfyipQLF8wZd-NtI&ab_channel=14fret2)
